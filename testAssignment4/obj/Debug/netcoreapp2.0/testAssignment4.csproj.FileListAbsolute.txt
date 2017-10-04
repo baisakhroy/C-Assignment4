@@ -1,0 +1,15 @@
+C:\C#\C#Assignment4\testAssignment4\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\C#\C#Assignment4\testAssignment4\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\C#\C#Assignment4\testAssignment4\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\C#\C#Assignment4\testAssignment4\bin\Debug\netcoreapp2.0\testAssignment4.deps.json
+C:\C#\C#Assignment4\testAssignment4\bin\Debug\netcoreapp2.0\testAssignment4.runtimeconfig.json
+C:\C#\C#Assignment4\testAssignment4\bin\Debug\netcoreapp2.0\testAssignment4.runtimeconfig.dev.json
+C:\C#\C#Assignment4\testAssignment4\bin\Debug\netcoreapp2.0\testAssignment4.dll
+C:\C#\C#Assignment4\testAssignment4\bin\Debug\netcoreapp2.0\testAssignment4.pdb
+C:\C#\C#Assignment4\testAssignment4\bin\Debug\netcoreapp2.0\C#Assignment4.dll
+C:\C#\C#Assignment4\testAssignment4\bin\Debug\netcoreapp2.0\C#Assignment4.pdb
+C:\C#\C#Assignment4\testAssignment4\obj\Debug\netcoreapp2.0\testAssignment4.csproj.CoreCompileInputs.cache
+C:\C#\C#Assignment4\testAssignment4\obj\Debug\netcoreapp2.0\testAssignment4.AssemblyInfoInputs.cache
+C:\C#\C#Assignment4\testAssignment4\obj\Debug\netcoreapp2.0\testAssignment4.AssemblyInfo.cs
+C:\C#\C#Assignment4\testAssignment4\obj\Debug\netcoreapp2.0\testAssignment4.dll
+C:\C#\C#Assignment4\testAssignment4\obj\Debug\netcoreapp2.0\testAssignment4.pdb
