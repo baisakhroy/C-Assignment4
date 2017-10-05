@@ -78,7 +78,7 @@ public void Displayafterdeletingbyindex(int index_to_be_deleted){
 
 public void Displayafterdeletingbyname(string str){
 try{
-    int index = 0;
+    int index = 7;
      ProductDetailsFill objProductDetailsFill = new ProductDetailsFill();
     List<Productinfo> Productinfolist = objProductDetailsFill.Productfill();
     List<Productgroup> ProductGrouplist = objProductDetailsFill.Productgroupfill();
@@ -89,8 +89,9 @@ try{
              break;
             }
     }
-    if(index==0){
+    if(index==7){
         throw new Exception ("The product you entered does not exist in the list.");
+        
     }
 
     List<Productinfo> Productinfolistafterdeletingbyname = objProductDetailsFill.DeleteProductbyname(Productinfolist, index);
